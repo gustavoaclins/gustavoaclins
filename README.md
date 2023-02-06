@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Projects ideas and start a new career in IT!**
 
-- 📫 How to reach me **gustavoaclins@gmail.com**
+- 📫 Reach me at **gustavoaclins@gmail.com** or in LinkedIn
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
