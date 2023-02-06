@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoaclins&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoaclins" /> </p>
 
-- 🔭 I’m currently working on **my Personal Portfolio**.
+- 🔭 I’m currently working on **getting experience in coding**.
 
 - 🌱 I’m currently learning **C#, JavaScript and MySQL**.
 
-- 🤝 I’m looking for help with **Projects Ideas and start a new career in IT!**
+- 🤝 I’m looking for help with **Projects ideas and start a new career in IT!**
 
 - 📫 How to reach me **gustavoaclins@gmail.com**
 
