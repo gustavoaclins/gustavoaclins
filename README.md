@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm Gustavo Lins</h1>
 <h3 align="center">A Student of Web & Mobile Development</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoaclins&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoaclins" /> </p>
 
 - 🔭 I’m currently working on **my Personal Portfolio**.
 
