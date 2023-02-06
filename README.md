@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C#, JavaScript and MySQL**.
 
-- 🤝 I’m looking for help with **Projects ideas and start a new career in IT!**
+- 🤝 I’m looking for help with **projects ideas and start a new career in Web Development!**
 
 - 📫 Reach me at **gustavoaclins@gmail.com** or in LinkedIn
 
