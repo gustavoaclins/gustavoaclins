@@ -1,3 +1,5 @@
+![MasterHead](https://media.licdn.com/dms/image/D5616AQG0RObu-omXaQ/profile-displaybackgroundimage-shrink_350_1400/0/1675352156243?e=1681344000&v=beta&t=pFXz9DJhWy59UqLXxTQCCxvBGkd-9AzdHzLvcCob1h8)
+
 <h1 align="center">Hello 👋, I'm Gustavo Lins</h1>
 <h3 align="center">A Student of Web & Mobile Development</h3>
 
