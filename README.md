@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **getting experience in coding**.
 
-- 🌱 I’m currently learning **C#, JavaScript and MySQL**.
+- 🌱 I’m currently learning **C#, Flutter, JavaScript and T-SQL**.
 
 - 🤝 I’m looking for help with **projects ideas and start a new career in Web Development!**
 
