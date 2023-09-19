@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoaclins&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoaclins" /> </p>
 
-- 🔭 I’m currently working on **getting experience in coding**.
+- 🔭 I’m currently working as a **Tutor for New Brunswick Community College** and looking forward to **getting experience in coding**.
 
-- 🌱 I’m currently learning **C#, Flutter, JavaScript and T-SQL**.
+- 🌱 I’m currently learning **C#, ASP.NET, JavaScript, Node and T-SQL**.
 
-- 🤝 I’m looking for help with **projects ideas and start a new career in Web Development!**
+- 🤝 I’m looking for help with **project ideas and start a new career in Web Development!**
 
-- 📫 Reach me at **gustavoaclins@gmail.com** or in LinkedIn
+- 📫 Reach me at **gustavoaclins@gmail.com** or in <a href="https://linkedin.com/in/gustavolins" target="blank">LinkedIn</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
