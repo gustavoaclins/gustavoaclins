@@ -35,4 +35,4 @@
 </p>
 <h3 align="left">My Stats</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gustavoaclins&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gustavoaclins&theme=tokyonight&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
