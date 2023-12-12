@@ -35,6 +35,5 @@
 </p>
 <h3 align="left">My Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavoaclins&show_icons=true&theme=onedark" alt="gustavoaclins" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=gustavoaclins&theme=tokyonight)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoaclins&theme=onedark" alt="gustavoaclins" /></p>
