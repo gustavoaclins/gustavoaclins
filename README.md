@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **project ideas and start a new career in Web Development!**
 
-- 📫 Reach me at **gustavoaclins@gmail.com** or in <a href="https://linkedin.com/in/gustavolins" target="blank">LinkedIn</a>
+- 📫 Reach me at **gustavoaclins@gmail.com** or in <a href="https://linkedin.com/in/gustavolins" target="blank">**LinkedIn**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
