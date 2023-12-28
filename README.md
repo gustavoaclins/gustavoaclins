@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a **Tutor for New Brunswick Community College** and looking forward to **getting experience in coding**.
 
-- 🌱 I’m currently learning **C#, ASP.NET, JavaScript, Node and Java**.
+- 🌱 I’m currently learning **C#, ASP.NET, Angular, Node and Java**.
 
 - 🤝 I’m looking for help with **project ideas and start a new career in Web Development!**
 
