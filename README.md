@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoaclins&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoaclins" /> </p>
 
-- 🔭 I’m currently working as a **Tutor for New Brunswick Community College** and looking forward to **getting experience in coding**.
+- 🔭 I’m currently working as a **Tutor for New Brunswick Community College** and looking forward to **getting into the Software Development Workforce**.
 
 - 🌱 I’m currently learning **C#, ASP.NET, Angular, Node and Java**.
 
