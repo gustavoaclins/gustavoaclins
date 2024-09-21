@@ -1,14 +1,12 @@
 
 <h1 align="center">Hello 👋, I'm Gustavo Lins</h1>
-<h3 align="center">A Student of Web & Mobile Development</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoaclins&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoaclins" /> </p>
 
-- 🔭 I’m currently working as a **Tutor for New Brunswick Community College** and looking forward to **getting into the Software Development Workforce**.
+- 🔭 I’m currently working as a **Tutor for New Brunswick Community College**.
 
-- 🌱 I’m currently learning **C#, ASP.NET, Angular, Node and Java**.
-
-- 🤝 I’m looking for help with **project ideas and start a new career in Web Development!**
+- 🌱 I’m currently learning **JavaScript, Angular, Node and MongoDB**.
 
 - 📫 Reach me at **gustavoaclins@gmail.com** or in <a href="https://linkedin.com/in/gustavolins" target="blank">**LinkedIn**</a>
 
